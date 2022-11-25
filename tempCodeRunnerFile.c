@@ -1,0 +1,1 @@
+void imprimir(int tam, char cenario[tam][tam])
